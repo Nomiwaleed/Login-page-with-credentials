@@ -1,0 +1,129 @@
+#title{
+    text-align: center;
+    font-size: 100;
+    font-style: normal;
+    color:black;
+}
+.main-div{
+    text-align: center;
+}
+#inp{
+    width: 600px;
+    height: 100px;
+    font-size: 50px;
+    background-color:#FF5349;
+    border-radius: 25px;
+}
+#first{
+    width: 60px;
+    height: 40px;
+    font-size: 30px;
+    background-color:#FF5349;
+    border-radius: 25px;
+}
+#second{
+    width: 60px;
+    height: 40px;
+    font-size: 30px;
+    background-color:#FF5349;
+    border-radius: 25px;
+}
+#third{
+    width: 60px;
+    height: 40px;
+    font-size: 30px;
+    background-color:#FF5349;
+    border-radius: 25px;
+}
+#plus{
+    width: 60px;
+    height: 40px;
+    font-size: 30px;
+    background-color:grey;
+    border-radius: 25px;
+}
+#multiply{
+    width: 60px;
+    height: 40px;
+    font-size: 30px;
+    background-color:grey;
+    border-radius: 25px;
+}
+#divide{
+    width: 60px;
+    height: 40px;
+    font-size: 30px;
+    background-color:grey;
+    border-radius: 25px;
+}
+#point{
+    width: 60px;
+    height: 40px;
+    font-size: 30px;
+    background-color:grey;
+    border-radius: 25px;
+}
+#equal{
+    width: 60px;
+    height: 40px;
+    font-size: 30px;
+    background-color:grey;
+    border-radius: 25px;
+}
+#minus{
+    width: 60px;
+    height: 40px;
+    font-size: 30px;
+    background-color:grey;
+    border-radius: 25px;
+}
+
+#sixth{
+    width: 60px;
+    height: 40px;
+    font-size: 30px;
+    background-color:#FF5349;
+    border-radius: 25px;
+}
+#fifth{
+    width: 60px;
+    height: 40px;
+    font-size: 30px;
+    background-color:#FF5349;
+    border-radius: 25px;
+}
+#fourth{
+    width: 60px;
+    height: 40px;
+    font-size: 30px;
+    background-color:#FF5349;
+    border-radius: 25px;
+}
+#seventh{
+    width: 60px;
+    height: 40px;
+    font-size: 30px;
+    background-color:#FF5349;
+    border-radius: 25px;
+}
+#eighth{
+    width: 60px;
+    height: 40px;
+    font-size: 30px;
+    background-color:#FF5349;
+    border-radius: 25px;
+}
+#nineth{
+    width: 60px;
+    height: 40px;
+    font-size: 30px;
+    background-color:#FF5349;
+    border-radius: 25px;
+}
+#zero{
+    width: 60px;
+    height: 40px;
+    font-size: 30px;
+    background-color:#FF5349;
+    border-radius: 25px;
+}
