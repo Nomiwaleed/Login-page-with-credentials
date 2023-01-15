@@ -1,0 +1,50 @@
+﻿@model Entity_Framework_Ass.Models.student_data
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>student_data</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.student_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.student_Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.student_FatherName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.student_FatherName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.student_age)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.student_age)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.student_id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
