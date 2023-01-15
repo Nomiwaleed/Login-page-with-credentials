@@ -1,0 +1,28 @@
+﻿@model List<LoginModel>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{}
+ <a asp-action="login"> Login</a>
+<div>
+    <table>
+        <tr>
+        <td> EMAIL </td>
+        <td> PASSWORD </td>
+        </tr>
+
+        @{foreach(LoginModel items  in Model)
+        {
+                <tr>
+                    <td>
+                        @items.Email
+                    </td>
+                    <td>
+                        @items.Password
+                    </td>
+                </tr>
+        }
+        }
+    </table>
+</div>
+
